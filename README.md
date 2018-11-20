@@ -1,2 +1,2 @@
 # classroom-assessment-tracker
-Tracker students progress
+Tracks students progress
